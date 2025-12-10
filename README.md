@@ -174,7 +174,7 @@ Ce plugin est distribué sous licence GPL-2.0+. Voir [GNU General Public License
 
 ## 👨‍💻 Auteur
 
-**Custom Development**
+**Jensen SIU**
 
 ## 🙏 Remerciements
 
