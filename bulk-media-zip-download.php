@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Bulk Media ZIP Download
- * Plugin URI: https://example.com/bulk-media-zip-download
+ * Plugin URI: https://github.com/seangoogoo/bulk-media-zip-download
  * Description: Ajoute une action groupée "Télécharger les fichiers (ZIP)" dans la médiathèque WordPress (vue liste) pour télécharger plusieurs médias en une seule archive ZIP.
  * Version: 1.0.1
  * Author: Jensen SIU
